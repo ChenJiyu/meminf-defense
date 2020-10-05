@@ -1,0 +1,4 @@
+--width=10
+--depth=28
+--n_steps=20
+--sample_mode

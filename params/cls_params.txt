@@ -1,0 +1,13 @@
+--lr=.0001
+--dataset=cifar10
+--optimizer=adam
+--p_x_weight=0.0
+--p_y_given_x_weight=1.0
+--p_x_y_weight=0.0 
+--sigma=.03
+--width=10
+--depth=28
+--warmup_iters=1000
+--n_epochs=50
+--dropout_rate=0.0
+--save_dir=models/cifar10/YOUR_SAVE_DIR
